@@ -5,7 +5,7 @@ import java.util.function.Predicate;
 // Predicate<T> : T 타입을 받아서 boolean을 리턴하는 함수 인터페이스(test)
 // A.and(B) : 함수 조합용 메소드
 // A.or(B) : 함수 조합용 메소드
-// A.negate(B) : 함수 조합용 메소드( 논리적 NOT 연산 )
+// A.negate() : 함수 조합용 메소드( 논리적 NOT 연산 )
 public class Foo_Predicate {
     public static void main(String[] args) {
 
