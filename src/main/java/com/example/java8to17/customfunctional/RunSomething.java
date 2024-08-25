@@ -1,4 +1,4 @@
-package com.example.java8to17;
+package com.example.java8to17.customfunctional;
 
 /* [함수형 인터페이스]
  *
