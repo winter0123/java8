@@ -2,7 +2,7 @@ package com.example.java8to17.javafunctional;
 
 import java.util.function.BinaryOperator;
 
-// BinaryOperator<T> : BiFunction<T, U, R>의 특수한 형태로, 동일한 타입의 입렵값 두개를 받아 리턴하는 함수 인터페이스
+// BinaryOperator<T> : BiFunction<T, U, R>의 특수한 형태로, 동일한 타입의 입렵값 두개를 받아 리턴하는 함수 인터페이스(apply)
 // 입력 type과 반환 type이 같음
 public class Foo_BinaryOperator {
     public static void main(String[] args) {

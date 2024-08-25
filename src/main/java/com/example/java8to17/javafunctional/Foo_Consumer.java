@@ -2,7 +2,7 @@ package com.example.java8to17.javafunctional;
 
 import java.util.function.Consumer;
 
-//Consumer<T> : T 타입을 받아서 아무값도 리턴하지 않는 함수 인터페이스(accept)
+//Consumer<T> : T 타입을 받아서 처리하고, 결과를 반환하지 않는 함수형 인터페이스(accept)
 //andThen : 함수 조합용 메소드
 public class Foo_Consumer {
     public static void main(String[] args) {
